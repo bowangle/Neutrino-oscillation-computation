@@ -38,16 +38,16 @@ Before using the code, it is highly recommended to read the top text explaining 
 **Important**: In order to use the code, you will need to modify the parameters manually in each Python file. Detailed instructions on how to adjust these parameters are provided at the bottom of each file.
 
 1. **Two flavor approximation using classical methods**:
-    - [Instructions for two flavor classical method]
+    - see how to use it in the "Application" section at the bottom of the "2_flavor_classical_computation.py" file
 
 2. **Two flavor approximation using quantum computation**:
-    - [Instructions for two flavor quantum computation]
+    - see how to use it in the "Application" section at the bottom of the "2_flavor_quantum_computation.py" file
 
 3. **Three flavor case using classical methods**:
-    - [Instructions for three flavor classical method]
+    - see how to use it in the "Application" section at the bottom of the "3_flavor_classical_computation.py" file
 
 4. **Three flavor case using quantum computation**:
-    - [Instructions for three flavor quantum computation]
+    - see how to use it in the "Application" section at the bottom of the "3_flavor_quantum_computation.py" file
 
 Example usage:
 ```sh
